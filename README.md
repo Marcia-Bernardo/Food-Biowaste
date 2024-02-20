@@ -13,13 +13,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2 id="scenario1"> :small_orange_diamond: Scenario 1: Manager Page</h2>
-
-<p align="center"> 
-  <img src="image/manager.png" alt="Pacman Logo" width="635px" height="500px">
-</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 id="about-the-project"> 🛠️: Technologies used: </h3>
 <div align="center">
@@ -29,3 +22,16 @@
 
 
 </div>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="scenario1"> :small_orange_diamond: Scenario 1: Manager Page</h2>
+
+<p align="center"> 
+  <img src="image/manager.png" alt="Pacman Logo" width="635px" height="500px">
+</p>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<h2 id="scenario1"> :small_orange_diamond: Scenario 2: Employe Page</h2>
+
+<p align="center"> 
+  <img src="image/employe.png" alt="Pacman Logo" width="635px" height="500px">
+</p>
