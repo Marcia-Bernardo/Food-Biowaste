@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="image/manager.png" alt="Pacman Logo" width="508px" height="400px">
+  <img src="image/manager.png" alt="Pacman Logo" width="635px" height="500px">
 </p>
 
 # Angular
