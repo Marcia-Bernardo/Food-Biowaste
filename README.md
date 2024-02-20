@@ -1,4 +1,6 @@
-![Manager](image/manager.png)
+<p align="center"> 
+  <img src="image/manager.png" alt="Pacman Logo" width="80px" height="80px">
+</p>
 
 # Angular
 
