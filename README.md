@@ -14,7 +14,7 @@ biological waste chain.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3 id="about-the-project"> :pencil: Technologies used: </h3>
+<h3 id="about-the-project"> 🛠️: Technologies used: </h3>
 <div align="center">
 
 
