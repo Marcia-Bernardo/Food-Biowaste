@@ -1,4 +1,4 @@
-![Manager](https://photos.google.com/share/AF1QipObzALqwTlxotYtHyuR6AdvoldpNpcSkspiiIHYrp745ZpFQShO_JTyvNBIzQqkhw/photo/AF1QipPxGerkppffllK00ElNkX6j7dwK7ohXdboDc9Fw?key=VGZRZXIyR1ZKaXhnNXhLbGlFYjBhRUU5VlNOZFRR)
+![Manager](https://ibb.co/SXNC2tK)
 
 # Angular
 
