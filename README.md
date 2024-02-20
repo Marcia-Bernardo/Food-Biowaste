@@ -1,4 +1,4 @@
-![Manager](https://ibb.co/SXNC2tK)
+![Manager](image/manager.png)
 
 # Angular
 
